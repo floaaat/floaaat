@@ -4,5 +4,5 @@
 ![Bash](https://img.shields.io/badge/-Bash-404040?style=for-the-badge&logo=bash&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-13AA52?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-763AF0?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F08F3A?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FF1500?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-1f1f1f?style=for-the-badge&logo=github&logoColor=white)
