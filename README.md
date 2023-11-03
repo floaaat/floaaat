@@ -11,4 +11,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-FFF533?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Projects:
-[My neovim configuration](https://github.com/floaaat/neovim-config)
+- [My neovim configuration](https://github.com/floaaat/neovim-config)
