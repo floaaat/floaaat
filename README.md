@@ -4,7 +4,7 @@
 ![Tools](https://skillicons.dev/icons?i=python,lua,bash,sqlite,git,github,neovim,linux)
 
 ### Github Stats:
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floaaat&layout=compact&theme=nord)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floaaat&layout=compact&theme=catppuccin_mocha)
 
 ### Projects:
 - [My neovim configuration](https://github.com/floaaat/neovim-config)
