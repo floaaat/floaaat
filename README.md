@@ -10,8 +10,8 @@
 ![Github](https://img.shields.io/badge/-Github-1f1f1f?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FFF533?style=for-the-badge&logo=linux&logoColor=black)
 
-### Projects:
-- [My neovim configuration](https://github.com/floaaat/neovim-config)
-
 ### Github Stats:
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floaaat&layout=compact)
+
+### Projects:
+- [My neovim configuration](https://github.com/floaaat/neovim-config)
