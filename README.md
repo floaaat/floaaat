@@ -5,7 +5,7 @@
 
 ### Github Stats:
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floaaat&layout=compact&theme=nord)
-![Streak stats](https://github-readme-streak-stats.vercel.app/?user=floaaat&theme=nord)
+![Streak stats](https://streak-stats.demolab.com/?user=floaaat&theme=nord)
 
 ### Projects:
 - [My neovim configuration](https://github.com/floaaat/neovim-config)
