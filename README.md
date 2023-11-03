@@ -12,3 +12,6 @@
 
 ### Projects:
 - [My neovim configuration](https://github.com/floaaat/neovim-config)
+
+### Github Stats:
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floaaat&layout=compact)
