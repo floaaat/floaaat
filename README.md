@@ -9,3 +9,6 @@
 ![Git](https://img.shields.io/badge/-Git-FF1500?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-1f1f1f?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FFF533?style=for-the-badge&logo=linux&logoColor=black)
+
+### Projects:
+My neovim configuration - (https://github.com/floaaat/neovim-config)
