@@ -9,4 +9,4 @@
 
 ### Projects:
 - [My neovim configuration](https://github.com/floaaat/neovim-config)
-- [My minimalistic bspwm catppuccin rice](https://github.com/floaaat/bspwm_catppuccin_rice)
+- [My minimalistic bspwm catppuccin rice](https://github.com/floaaat/bspwm-catppuccin-dotfiles)
