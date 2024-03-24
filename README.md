@@ -13,5 +13,5 @@
 <h1></h1>
 
 <div align="center">
-    <img src="https://media.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif" alt="<3"/>
+    <img src="https://tenor.com/view/nyan-cat-gif-24946423" alt="<3"/>
 </div>
