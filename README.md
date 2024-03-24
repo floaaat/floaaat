@@ -8,9 +8,9 @@
 
 <h3 align="center">Github Stats</h2>
 <div align="center">
-    <img style="width: 60%" src="https://streak-stats.demolab.com/?user=floaaat&theme=nord" />
+    <img src="https://streak-stats.demolab.com/?user=floaaat&theme=nord" />
     <br/>
-    <img style="width: 60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floaaat&layout=compact&theme=nord" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floaaat&layout=compact&theme=nord" />
 </div>
 <h1></h1>
 
