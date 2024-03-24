@@ -1,4 +1,4 @@
-# Floaaat
+<h1 style="align: center;">Floaaat</h1>
 
 ### Tools:
 [![Tools](https://skillicons.dev/icons?i=py,fastapi,rust,html,css,lua,bash,markdown,sqlite,git,github,replit,neovim,vscode,pycharm,arch,ubuntu,raspberrypi&perline=9)]()
