@@ -8,6 +8,7 @@
 <h3 align="center">Github Stats</h2>
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=floaaat&theme=nord" />
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floaaat&layout=compact&theme=nord" />
 </div>
 
