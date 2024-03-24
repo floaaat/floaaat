@@ -10,3 +10,8 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floaaat&layout=compact&title_color=b7bdf8&bg_color=363a4f&text_color=b7bdf8&border_radius=10&border_color=939ab7" />
 </div>
+<h1></h1>
+
+<div align="center">
+    <img src="https://media.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif" alt="<3"/>
+</div>
