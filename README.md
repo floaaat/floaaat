@@ -1,7 +1,7 @@
 # Floaaat
 
 ### Tools:
-[![Tools](https://skillicons.dev/icons?i=py,fastapi,rust,html,css,lua,bash,sqlite,markdown,git,github,replit,neovim,vscode,pycharm,arch,ubuntu,raspberrypi&perline=8)]()
+[![Tools](https://skillicons.dev/icons?i=py,fastapi,rust,html,css,lua,bash,markdown,sqlite,git,github,replit,neovim,vscode,pycharm,arch,ubuntu,raspberrypi&perline=8)]()
 
 ### Github Stats:
 [![Streak stats](https://streak-stats.demolab.com/?user=floaaat&theme=nord)]()\
