@@ -1,8 +1,8 @@
 # Floaaat
 
 ### Tools:
-[![Tools](https://skillicons.dev/icons?i=py,rust,html,css,lua,bash,sqlite)]()
-[![Tools](https://skillicons.dev/icons?i=git,github,neovim,vscode,linux)]()
+[![Tools](https://skillicons.dev/icons?i=py,rust,html,css,lua,bash)]()
+[![Tools](https://skillicons.dev/icons?i=tortoise,git,github,neovim,vscode,linux)]()
 
 ### Github Stats:
 [![Streak stats](https://streak-stats.demolab.com/?user=floaaat&theme=nord)]()\
