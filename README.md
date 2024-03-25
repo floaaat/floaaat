@@ -8,6 +8,6 @@
 
 <h3 align="center">Github Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floaaat&layout=compact&title_color=b7bdf8&bg_color=363a4f&text_color=b7bdf8&border_radius=10&border_color=939ab7" />
+    <img src="https://streak-stats.demolab.com?user=floaaat&theme=catppuccin-macchiato&hide_border=true&border_radius=10"/>
 </div>
 <h1></h1>
