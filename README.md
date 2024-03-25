@@ -2,7 +2,7 @@
 
 <h3 align="center">Tools, languages, software and OS'es</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,rust,html,css,lua,bash,markdown,sqlite,git,github,replit,neovim,vscode,pycharm,arch,ubuntu,raspberrypi&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,rust,html,css,lua,bash,markdown,sqlite,git,github,neovim,vscode,pycharm&perline=7" />
 </div>
 <h1></h1>
 
