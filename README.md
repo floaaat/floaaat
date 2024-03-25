@@ -1,6 +1,6 @@
 <h1 align="center">Floaaat</h1>
 
-<h3 align="center">Tools, languages, software and OS'es</h2>
+<h3 align="center">Tools, languages & software</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,fastapi,rust,html,css,lua,bash,markdown,sqlite,git,github,neovim,vscode,pycharm&perline=7" />
 </div>
