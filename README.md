@@ -1,4 +1,4 @@
-<h1 align="center">Floaaat</h1>
+<h1 align="center">Floaaat!</h1>
 
 <h3 align="center">Languages & tools</h2>
 <div align="center">
