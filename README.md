@@ -2,7 +2,7 @@
 
 <h2 align="center">Languages & tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,lua,html,css,bash,markdown,git,github />
+    <img src="https://skillicons.dev/icons?i=rust,lua,html,css,bash,markdown,git,github" />
 </div>
 
 <h2 align="center">Github Stats</h2>
