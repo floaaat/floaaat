@@ -7,5 +7,5 @@
 
 <h2 align="center">Github Stats</h2>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=floaaat&theme=blue_navy&border_radius=10"/>
+    <img src="https://streak-stats.demolab.com?user=floaaat&theme=github-dark-blue&hide_border=true&hide_longest_streak=true&border_radius=10"/>
 </div>
